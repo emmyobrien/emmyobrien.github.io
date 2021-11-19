@@ -9,4 +9,4 @@ This is a meme
 
 # but a good one.
 
-![alt text](https://emmyobrien.github.io/_posts/this-is-fine.0.jpg "Or is it?")
+![alt text](/assets/this-is-fine.0.jpg "Or is it?")
