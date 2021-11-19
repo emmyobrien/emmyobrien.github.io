@@ -9,6 +9,4 @@ This is a meme
 
 # but a good one.
 
-<img src="this-is-fine.0.png"
-     alt="Or is it?"
-     style="float: left; margin-right: 10px;" />
+![alt text](this-is-fine.0.jpg "Or is it?")
